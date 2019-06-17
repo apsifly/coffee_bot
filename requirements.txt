@@ -1,0 +1,5 @@
+peewee
+pysqlite3
+psycopg2
+mysqlclient
+pyTelegramBotAPI
